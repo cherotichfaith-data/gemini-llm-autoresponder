@@ -134,8 +134,3 @@ function onFormSubmit(e) {
 ## 📌 Tags
 
 `#AI` `#GeminiAPI` `#GoogleForms` `#AppsScript` `#LLM` `#PromptEngineering` `#WomenInTech` `#Automation`
-
-```
-
-Let me know if you want a separate `LICENSE`, `demo.gif`, or to turn this into a deployable Apps Script project structure.
-```
